@@ -37,8 +37,6 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <org.mapstruct.version>1.5.3.Final</org.mapstruct.version>
-        <jaxb.version>2.3.1</jaxb.version>
-        <jaxb.core.version>4.0.1</jaxb.core.version>
     </properties>
 
     <dependencies>
